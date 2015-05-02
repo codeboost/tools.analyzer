@@ -17,8 +17,10 @@ Currently the following platform specific analyzers written on top of tools.anal
 * [Developer Information](#developer-information)
 * [License](#license)
 
-[Quickref](http://clojure.github.io/tools.analyzer/spec/quickref.html)
-========================================
+##Quickref
+
+The AST data structures are described in more detail [here](http://clojure.github.io/tools.analyzer/spec/quickref.html).
+
 
 ## Example Usage
 `clojure.tools.analyzer/analyze` will not work out of the box, as it requires a number of entry-points to be set.
